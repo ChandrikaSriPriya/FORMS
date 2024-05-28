@@ -1,0 +1,91 @@
+h1{
+    text-align: center;
+    font-family:cursive;
+   }
+   
+   body{
+       text-align: center;
+       background-image: url("https://wallpapers.com/images/hd/powerpoint-background-nhmfq8ydutg918pl.jpg");
+       
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:190vh;
+
+
+       } 
+   .container{
+       
+       background: rgb(127, 172, 187);
+       width: 100%;
+       max-width:650px;
+       padding:25px;
+       margin: 25px 25px;
+       border-radius: 10px;
+   text-align: center;
+   position: absolute;
+ right: 5%;
+ 
+
+   }
+   span{
+       color: blue;
+   }
+   #first{
+       border: 2px solid  rgb(135,206,235);
+       border-radius: 20px;
+       background-color: white;
+       padding-bottom: 20px;
+       box-shadow: 2px 2px 2px 2px ;
+       
+   }
+   #second{
+       border: 2px solid rgb(135,206,235);
+       border-radius: 20px;
+       background-color: white;
+       padding-bottom: 20px;
+        margin-top: 15px;
+        box-shadow:2px 2px 2px 2px ;
+        
+   }
+   #third{
+       border: 2px solid  rgb(135,206,235);
+       border-radius: 20px;
+       background-color: white;
+       padding-bottom: 20px;
+       margin-top: 15px;
+       box-shadow: 2px 2px 2px 2px;
+   
+   }
+   #fourth{
+       border: 2px solid  rgb(135,206,235);
+       border-radius: 20px;
+       background-color: white;
+       padding-bottom: 20px;
+       margin-top: 15px;
+       box-shadow: 2px 2px 2px 2px;
+   }
+   #fifth{
+       display: block;
+       width: 90%;
+       margin-top: 10px;
+       font-size: 20px;
+       padding: 10px;
+       border: none;
+       border-radius: 3px;
+       color: rgb(209,209,209);
+       background: rgba(72, 113, 200, 0.7);
+       position: relative;
+       left: 25px;
+   }
+   label{
+       border-radius: 5px;
+   }
+    #one{
+       /* border-color: rgb(62, 177, 203); */
+       border-radius: 7px;
+   
+    } 
+    /* .two{
+       border-color: rgb(178, 8, 184);
+       border-radius: 7px;
+    } */
